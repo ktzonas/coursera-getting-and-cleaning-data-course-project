@@ -1,0 +1,1 @@
+This folder is used to save the tidy data extracted from the [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
